@@ -1,0 +1,9 @@
+{
+  "mqttHost": "mqtt.googleapis.com",
+  "mqttPort": 8883,
+  "projectId": "project-id",
+  "location": "europe-west1",
+  "registryId": "night-light",
+  "deviceId": "night-light-001",
+  "privateKey": ""
+}
